@@ -1,0 +1,24 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+    <!-- Solid Color Brushes -->
+    <SolidColorBrush x:Key="TestBrushOne" Color="Red"/>
+    <SolidColorBrush x:Key="TestBrushTwo" Color="Green"/>
+    <SolidColorBrush x:Key="TestBrushThree" Color="Blue"/>
+
+
+    <!-- Custom Control Styles -->
+    <Style x:Key="TestButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="Blue"/>
+        <Setter Property="CornerRadius" Value="10"/>
+        <Setter Property="Content" Value="Test Button Loaded Successfully !"/>
+    </Style>
+    
+    <!-- Custom Font Files -->
+    <FontFamily x:Key="ArimaFont">ms-appx:///Components/Assets/Fonts/ArimaMadurai-Black.ttf#Arima Madurai</FontFamily>
+    <FontFamily x:Key="MerriweatherFont">ms-appx:///Components/Assets/Fonts/Merriweather-Black.ttf#Merriweather</FontFamily>
+    <FontFamily x:Key="ZWindowsIconFontFamily">ms-appx:///Components/Assets/Fonts/windowsIcons.ttf#windowsIcons</FontFamily>
+
+</ResourceDictionary>

@@ -1,0 +1,1 @@
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x86\Debug\ZNetworkAdapterNugetTestApp.csproj.AssemblyReference.cache

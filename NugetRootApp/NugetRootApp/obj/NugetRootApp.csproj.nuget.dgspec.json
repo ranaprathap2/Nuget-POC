@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\NugetRootApp\\NugetRootApp\\NugetRootApp.csproj": {}
+  },
+  "projects": {
+    "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\NugetRootApp\\NugetRootApp\\NugetRootApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\NugetRootApp\\NugetRootApp\\NugetRootApp.csproj",
+        "projectName": "ZNetworkAdapterNugetTestApp",
+        "projectPath": "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\NugetRootApp\\NugetRootApp\\NugetRootApp.csproj",
+        "packagesPath": "C:\\Users\\raana-9183\\.nuget\\packages\\",
+        "outputPath": "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\NugetRootApp\\NugetRootApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\raana-9183\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\POC\\CommonLibPOC\\NugetPOC\\NewAppStructurePOC\\MyNugets": {},
+          "D:\\POC\\CommonLibPOC\\NugetPOC\\Stackoverflow sample\\MyNugets": {},
+          "E:\\WebViewPOC\\WebViewPOC\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Components": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.14, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Components" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Components">
+				<NamedResource name="AvatarView.xbf" uri="ms-resource://Components/Files/Components/AvatarView.xbf">
+					<Candidate type="Path">
+						<Value>Components\AvatarView.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Components.xr.xml" uri="ms-resource://Components/Files/Components/Components.xr.xml">
+					<Candidate type="Path">
+						<Value>Components\Components.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="image.gif" uri="ms-resource://Components/Files/Components/Assets/image.gif">
+						<Candidate type="Path">
+							<Value>Components\Assets\image.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="swat.gif" uri="ms-resource://Components/Files/Components/Assets/swat.gif">
+						<Candidate type="Path">
+							<Value>Components\Assets\swat.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="Fonts">
+						<NamedResource name="ArimaMadurai-Black.ttf" uri="ms-resource://Components/Files/Components/Assets/Fonts/ArimaMadurai-Black.ttf">
+							<Candidate type="Path">
+								<Value>Components\Assets\Fonts\ArimaMadurai-Black.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Merriweather-Black.ttf" uri="ms-resource://Components/Files/Components/Assets/Fonts/Merriweather-Black.ttf">
+							<Candidate type="Path">
+								<Value>Components\Assets\Fonts\Merriweather-Black.ttf</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="windowsIcons.ttf" uri="ms-resource://Components/Files/Components/Assets/Fonts/windowsIcons.ttf">
+							<Candidate type="Path">
+								<Value>Components\Assets\Fonts\windowsIcons.ttf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="Button">
+						<NamedResource name="MyUserControl1.xbf" uri="ms-resource://Components/Files/Components/Controls/Button/MyUserControl1.xbf">
+							<Candidate type="Path">
+								<Value>Components\Controls\Button\MyUserControl1.xbf</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Resources">
+					<NamedResource name="TestResourceDictionary.xbf" uri="ms-resource://Components/Files/Components/Resources/TestResourceDictionary.xbf">
+						<Candidate type="Path">
+							<Value>Components\Resources\TestResourceDictionary.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

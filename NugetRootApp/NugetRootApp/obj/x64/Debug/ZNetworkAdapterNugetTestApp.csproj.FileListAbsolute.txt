@@ -1,0 +1,126 @@
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Components.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\image.gif
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\swat.gif
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\ArimaMadurai-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\Merriweather-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\windowsIcons.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\App.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\MainPage.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\resources.pri
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\AppxManifest.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Core\AppxManifest.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Core\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.build.appxrecipe
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\System.Runtime.dll
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapter.dll
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapter.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.AssemblyReference.cache
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\XamlSaveStateFile.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.CoreCompileInputs.cache
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.CopyComplete
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\Components.pri.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ResourceHandlingTask.state
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\priconfig.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\priconfig.xml.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\unfiltered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\filtered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\excluded.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\resources.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\resources.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\pri.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\pri.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\qualifiers.txt
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\qualifiers.txt.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ProjectArchitectures.txt
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885112160000000.json
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.pri
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Components.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\image.gif
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\swat.gif
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\ArimaMadurai-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\Merriweather-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Assets\Fonts\windowsIcons.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\System.Runtime.dll
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.AssemblyReference.cache
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\App.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MainPage.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\XamlSaveStateFile.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.CoreCompileInputs.cache
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.csproj.CopyComplete
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\Components.pri.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ZNetworkAdapterNugetTestApp.pdb
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Components.pri
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\App.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\MainPage.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.pdb
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\resources.pri
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\AppxManifest.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Core\AppxManifest.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\Core\ZNetworkAdapterNugetTestApp.exe
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\bin\x64\Debug\ZNetworkAdapterNugetTestApp.build.appxrecipe
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ResourceHandlingTask.state
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\priconfig.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\priconfig.xml.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\unfiltered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\filtered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\excluded.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\resources.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\resources.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\pri.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\pri.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\qualifiers.txt
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\qualifiers.txt.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\ProjectArchitectures.txt
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885112160000000.json

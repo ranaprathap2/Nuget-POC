@@ -1,0 +1,2 @@
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\Components.csproj;x64
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp\ZNetworkAdapterNugetTestApp.csproj;x64

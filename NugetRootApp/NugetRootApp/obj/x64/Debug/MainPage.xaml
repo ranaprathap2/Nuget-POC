@@ -1,0 +1,131 @@
+﻿<Page
+    x:Class="ZNetworkAdapterNugetTestApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ZNetworkAdapterNugetTestApp"
+    xmlns:ctrl1="using:Components.Controls.Button"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+        <StackPanel>
+
+            <StackPanel.Resources>
+                <ResourceDictionary>
+
+                    <x:Double x:Key="VerticalSpacerHeight">50</x:Double>
+                   
+                    <!-- Accessing a resource dictionary from Components nuget -->
+                    <ResourceDictionary.MergedDictionaries>
+                        <ResourceDictionary Source="ms-appx:///Components/Resources/TestResourceDictionary.xaml"/>
+                    </ResourceDictionary.MergedDictionaries>
+                </ResourceDictionary>
+            </StackPanel.Resources>
+
+            <ctrl1:MyUserControl1/>
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+            <TextBlock 
+                FontSize="20" 
+                FontWeight="Bold"
+                Text="Test 2 : The below image/gif is loaded from static assets folder within the Components nuget package"/>
+
+            <Image 
+               Width="600"
+               Height="600"
+               VerticalAlignment="Top"
+               Margin="12"
+               Source="ms-appx:///Components/Assets/swat.gif"/>
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+            <TextBlock 
+           
+            FontSize="20" 
+            FontWeight="Bold"
+            Text="Test 3 : Testing usage of Solid color brush resources from TestResourceDictionary defined in Components nuget"/>
+
+            <TextBlock 
+            
+            FontSize="20" 
+            FontWeight="Bold"
+            Foreground="{StaticResource TestBrushOne}"
+            Text="Using TestBrushOne defined in Components nuget's TestResourceDictionary for this line."/>
+
+            <TextBlock 
+            
+            FontSize="20" 
+            FontWeight="Bold"
+            Foreground="{StaticResource TestBrushTwo}"
+            Text="Using TestBrushTwo defined in Components nuget's TestResourceDictionary for this line."/>
+
+            <TextBlock 
+            
+            FontSize="20" 
+            FontWeight="Bold"
+            Foreground="{StaticResource TestBrushThree}"
+            Text="Using TestBrushThree defined in Components nuget's TestResourceDictionary for this line."/>
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+            <TextBlock 
+            
+            FontSize="20" 
+            FontWeight="Bold"
+            Text="Test 4 : Testing usage of CustomStyles for a button from TestResourceDictionary defined in Components nuget"/>
+
+            <Button 
+            
+            Style="{StaticResource TestButtonStyle}"
+            FontSize="20"
+            FontWeight="Bold"/>
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+            <TextBlock 
+           
+            FontSize="20" 
+            FontWeight="Bold"
+            Text="Test 5 : Using font files from Components nugets"/>
+
+
+            <TextBlock 
+                FontSize="20" 
+                FontWeight="Bold"
+                FontFamily="{StaticResource ArimaFont}"
+                Text="This is Arima Black font used from Components nuget"/>
+
+            <TextBlock 
+                FontSize="20" 
+                FontWeight="Bold"
+                FontFamily="{StaticResource MerriweatherFont}"
+                Text="This is Merriweather font used from Components nuget "/>
+
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+            <TextBlock 
+                FontSize="20" 
+                FontStyle="Italic"
+                FontFamily="{StaticResource ArimaFont}"
+                Text="Test 6: Just using a Font Icon glyph below from Components nuget's windowsIcons.ttf file"/>
+
+
+            <FontIcon 
+                FontSize="36" 
+                FontFamily="{StaticResource ZWindowsIconFontFamily}"
+                Glyph="&#xAE72A;"/>
+
+
+            <Rectangle Height="{StaticResource VerticalSpacerHeight}"/>
+
+        </StackPanel>
+
+    </ScrollViewer>
+   
+    
+</Page>
+
