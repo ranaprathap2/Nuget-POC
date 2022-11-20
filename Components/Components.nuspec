@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Components</id>
+    <version>1.0.1</version>
+    <authors>I'm someone</authors>
+    <description>Just testing out resource dictionary in  a nuget</description>
+    <copyright>I'm someone</copyright>
+    <dependencies>
+      <group targetFramework="uap10.0" >
+		<dependency id="Microsoft.NETCore.UniversalWindowsPlatform" version="6.2.13" />
+	  </group>	
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\x64\Release\Components.dll" target="lib\uap10.0" />
+    <file src="bin\x64\Release\Components.pdb" target="lib\uap10.0" />
+    <file src="bin\x64\Release\Components.pri" target="lib\uap10.0" />
+	<file src="bin\x64\Release\Components.xml" target="lib\uap10.0" />
+    <file src="bin\x64\Release\Components\Components.xr.xml" target="lib\uap10.0\Components" />
+	<file src="Assets\**" target="lib\uap10.0\Components\Assets" />
+	<file src="Resources\**\*.xaml" target="lib\uap10.0\Components\Resources" />
+  </files>
+</package>  

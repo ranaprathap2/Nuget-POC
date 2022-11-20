@@ -1,0 +1,98 @@
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Assets\image.gif
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Assets\swat.gif
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Assets\Fonts\windowsIcons.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Assets\Fonts\Merriweather-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Assets\Fonts\ArimaMadurai-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Components.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components.XML
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Components.pri
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\bin\x64\Release\Microsoft.UI.Xaml.Markup.winmd
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Components.csproj.AssemblyReference.cache
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\AvatarView.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\AvatarView.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Controls\Button\MyUserControl1.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Controls\Button\MyUserControl1.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\XamlSaveStateFile.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Components.csproj.CoreCompileInputs.cache
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Components.csproj.CopyComplete
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\priconfig.xml
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\priconfig.xml.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\unfiltered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\filtered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\excluded.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\resources.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\resources.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\pri.resfiles
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\pri.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\qualifiers.txt
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\qualifiers.txt.intermediate
+D:\POC\CommonLibPOC\NugetPOC\NewAppStructurePOC\Components\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Components.csproj.AssemblyReference.cache
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\AvatarView.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\AvatarView.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Controls\Button\MyUserControl1.g.i.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Controls\Button\MyUserControl1.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\XamlSaveStateFile.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Assets\image.gif
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Assets\swat.gif
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Assets\Fonts\windowsIcons.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Assets\Fonts\Merriweather-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Assets\Fonts\ArimaMadurai-Black.ttf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\AvatarView.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Controls\Button\MyUserControl1.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Resources\TestResourceDictionary.xbf
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Components.xr.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\AvatarView.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Controls\Button\MyUserControl1.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components\Resources\TestResourceDictionary.xaml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components.XML
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components.dll
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components.pdb
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Components.pri
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\bin\x64\Release\Microsoft.UI.Xaml.Markup.winmd
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Components.csproj.CoreCompileInputs.cache
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\Components.csproj.CopyComplete
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\priconfig.xml
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\priconfig.xml.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\unfiltered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\filtered.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\excluded.layout.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\resources.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\resources.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\pri.resfiles
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\pri.resfiles.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\qualifiers.txt
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\qualifiers.txt.intermediate
+D:\POC\CommonLibPOC\NugetPOC\Stackoverflow sample\Components\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
